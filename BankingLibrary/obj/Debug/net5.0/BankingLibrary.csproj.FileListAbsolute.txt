@@ -1,0 +1,11 @@
+C:\Users\smitha\source\repos\JenkinsCIDemo\BankingLibrary\bin\Debug\net5.0\BankingLibrary.deps.json
+C:\Users\smitha\source\repos\JenkinsCIDemo\BankingLibrary\bin\Debug\net5.0\BankingLibrary.dll
+C:\Users\smitha\source\repos\JenkinsCIDemo\BankingLibrary\bin\Debug\net5.0\ref\BankingLibrary.dll
+C:\Users\smitha\source\repos\JenkinsCIDemo\BankingLibrary\bin\Debug\net5.0\BankingLibrary.pdb
+C:\Users\smitha\source\repos\JenkinsCIDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smitha\source\repos\JenkinsCIDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.AssemblyInfoInputs.cache
+C:\Users\smitha\source\repos\JenkinsCIDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.AssemblyInfo.cs
+C:\Users\smitha\source\repos\JenkinsCIDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\smitha\source\repos\JenkinsCIDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.dll
+C:\Users\smitha\source\repos\JenkinsCIDemo\BankingLibrary\obj\Debug\net5.0\ref\BankingLibrary.dll
+C:\Users\smitha\source\repos\JenkinsCIDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.pdb
